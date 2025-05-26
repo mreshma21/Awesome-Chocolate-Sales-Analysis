@@ -32,5 +32,7 @@ The **Awesome Chocolates Dashboard** provides a detailed analysis of sales, ship
 
 ## Awesome Chocolate Dashboard 
 
+https://github.com/mreshma21/Awesome-Chocolate-Sales-Analysis/blob/547c03e3344ec372dc9cad2fd78ddf905a4c3f6e/Awesome%20Chocolate%20Sales%20Report.png
+
 
 
